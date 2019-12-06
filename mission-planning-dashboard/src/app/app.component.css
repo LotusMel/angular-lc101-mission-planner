@@ -1,5 +1,8 @@
 .box {
     display: flex;
     padding: 10px;
-    color: indigo;   
+    color: indigo; 
+    border-style: dotted; 
+    border-color: mediumspringgreen;
+    font-family: 'Cambria';
 }
