@@ -1,0 +1,11 @@
+h1 {
+    font-family: monospace;
+    font-style: oblique;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+h3 {
+    color: slategray;
+    font-family: cursive;
+}
